@@ -1,0 +1,12 @@
+{
+  "name": "laboration-1",
+  "version": "1.0.0",
+  "description": "Laboration 1 - Välkomstmeddelande",
+  "license": "ISC",
+  "author": "Alexander Cancino",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
